@@ -1,10 +1,16 @@
 <?php
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
-/*
-Plugin Name: BxC Modal
-Plugin URI: https://github.com/jaimezegpi/bxcmodal
-Description: Super Basic Plugin for Modal Windows. Programmable on specific Dates and with content suitable for Desktop and Mobile. You can select where to display it or simply have it displayed across your website.
-Author: Jaime A. Zegpi B:
+/**
+* Plugin Name: BxC Modal
+* Plugin URI: https://github.com/jaimezegpi/bxcmodal
+* Description: Super Basic Plugin for Modal Windows. Programmable on specific Dates and with content suitable for Desktop and Mobile. You can select * where to display it or simply have it displayed across your website.
+* Author: Jaime A. Zegpi B:
+* Version:           1.0
+* Requires at least: 5.2
+* Requires PHP:      7.2
+* Author URI:        https://github.com/jaimezegpi/
+* License:           GPL v2 or later
+* License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 */
 function bxc_date_picker(){
 	wp_enqueue_script('jquery-ui-datepicker');
