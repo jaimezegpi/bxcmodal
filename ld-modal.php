@@ -2,7 +2,7 @@
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /*
 Plugin Name: BxC Modal
-Plugin URI: https://jaime.zegpi.cl/develop/modal
+Plugin URI: https://github.com/jaimezegpi/bxcmodal
 Description: Super Basic Plugin for Modal Windows. Programmable on specific Dates and with content suitable for Desktop and Mobile. You can select where to display it or simply have it displayed across your website.
 Author: Jaime A. Zegpi B:
 */
